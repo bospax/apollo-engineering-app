@@ -1,0 +1,90 @@
+[03-Mar-2020 06:10:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:11:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:11:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:12:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:12:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:12:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:14:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:16:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:17:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:17:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[03-Mar-2020 06:18:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php:38
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php on line 38
+[27-Oct-2021 06:20:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'scopes_progress' cannot be null in /home/webdomainadmin/public_html/AP/pages/Computations/class.php:112
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/class.php(112): PDOStatement->execute()
+#1 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(85): Computations->BillingHistory('21-066', Array, 'Progress Billin...', Array, Array, Array, Array, Array)
+#2 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/class.php on line 112
+[12-Nov-2021 09:39:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'scopes_progress' cannot be null in /home/webdomainadmin/public_html/AP/pages/Computations/class.php:112
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/class.php(112): PDOStatement->execute()
+#1 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(85): Computations->BillingHistory('21-045', Array, 'Progress Billin...', Array, Array, Array, Array, Array)
+#2 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/class.php on line 112
+[15-Nov-2021 08:15:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'scopes_progress' cannot be null in /home/webdomainadmin/public_html/AP/pages/Computations/class.php:112
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/class.php(112): PDOStatement->execute()
+#1 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(85): Computations->BillingHistory('21-045', Array, 'Progress Billin...', Array, Array, Array, Array, Array)
+#2 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/class.php on line 112
+[29-Nov-2021 05:28:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'scopes_progress' cannot be null in /home/webdomainadmin/public_html/AP/pages/Computations/class.php:112
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/class.php(112): PDOStatement->execute()
+#1 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(85): Computations->BillingHistory('21-066', Array, 'Progress Billin...', Array, Array, Array, Array, Array)
+#2 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/class.php on line 112
+[07-Mar-2024 02:12:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'scopes_progress' cannot be null in /home/webdomainadmin/public_html/AP/pages/Computations/class.php:112
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/Computations/class.php(112): PDOStatement->execute()
+#1 /home/webdomainadmin/public_html/AP/pages/Computations/PostingToClass.php(85): Computations->BillingHistory('21-068 - I', Array, 'Progress Billin...', Array, Array, Array, Array, Array)
+#2 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/Computations/class.php on line 112

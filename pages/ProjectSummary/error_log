@@ -1,0 +1,23 @@
+[05-Mar-2020 01:00:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'webdomai_engineering.apollo_laborandmaterialcost_list.contract_amount' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php:63
+Stack trace:
+#0 /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php(63): PDOStatement->execute()
+#1 {main}
+  thrown in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 63
+[23-Jul-2020 06:34:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[23-Jul-2020 06:34:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[15-Sep-2020 06:27:29 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[15-Sep-2020 06:27:29 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[16-Sep-2020 06:25:24 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[16-Sep-2020 06:25:24 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[29-Sep-2020 00:58:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[29-Sep-2020 00:58:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[17-May-2021 07:47:12 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[17-May-2021 07:47:12 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[15-Sep-2021 01:22:30 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[15-Sep-2021 01:22:30 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[08-Mar-2022 08:38:23 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[08-Mar-2022 08:38:23 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[03-Jun-2022 01:26:35 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[03-Jun-2022 01:26:35 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
+[20-Dec-2023 05:24:00 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 110
+[20-Dec-2023 05:24:00 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/webdomainadmin/public_html/AP/pages/ProjectSummary/SearchSummary.php on line 114
